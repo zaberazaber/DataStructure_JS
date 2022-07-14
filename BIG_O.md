@@ -114,3 +114,8 @@ Well, technically, there is no best case or average case, Big O.
 That would be Omega or Theta.
 
 So when we measure Big O, we are always measuring worst case.
+
+
+
+for more go to
+https://www.bigocheatsheet.com/
